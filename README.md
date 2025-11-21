@@ -22,4 +22,3 @@ Built on **n8n** with **Google Gemini** summarization and a **Gmail** send node.
 - HTML body is pulled from the previous AI node as `summaryHtml` (fallbacks included)
 - Respect FT.com terms and fair‑use; use for personal briefing only
 
-MIT © 2025 Daniyal Tariq Butt
